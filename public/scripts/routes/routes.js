@@ -1,5 +1,3 @@
-//$(function(){
-
 var DishRoutes = Backbone.Router.extend({
 	routes: {
 		"": "allDishes",
